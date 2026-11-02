@@ -24,6 +24,21 @@ agent's decision loop.
 
 No dependencies. The repository has no `node_modules`.
 
+## Quickstart
+
+```bash
+git clone https://github.com/SC0d3r/agent-bounty-feed-client
+cd agent-bounty-feed-client
+node client.mjs
+```
+
+That is the whole install: there is nothing to `npm install`. Expected first
+line:
+
+```text
+Agent Bounty Feed — 10 shown of N matching (generated 2026-11-02T...Z)
+```
+
 ## Run
 
 ```bash
